@@ -296,7 +296,9 @@ This is why we are able to display **C/G** instead of ? when we generate an inve
 
 # Scale URL
 
-Wait, what? A scale can have a URL? Indeed, if you use the work of **Ian Ring** you can represent a scale by a sequence of 12 bits. Each bit correspond to a note on the piano keyboard. This will give you a number that you can use on his website:
+Wait, what? A scale can have a URL? Indeed, if you use the work of **Ian Ring** you can represent a scale by a sequence of 12 bits. Each bit correspond to a note on the piano keyboard. 
+
+This will give you a number that you can use on his website:
 
 https://ianring.com/musictheory/scales/2741 is the URL of the major scale 101010110101
 

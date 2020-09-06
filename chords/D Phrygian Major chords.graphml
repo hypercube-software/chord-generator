@@ -1,0 +1,3200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml
+ xmlns="http://graphml.graphdrawing.org/xmlns"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:y="http://www.yworks.com/xml/graphml"
+ xmlns:yed="http://www.yworks.com/xml/yed/3"
+ xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+
+<key for="node" id="d0" yfiles.type="nodegraphics"/>
+<key for="edge" id="d1" yfiles.type="edgegraphics"/>
+<graph edgedefault="directed" id="G">
+	<node id="n1">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>D Phrygian Major</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n105">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D Phrygian b7/C
+C,D,Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+C,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n149">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus4/C
+C,D,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n192">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom7/C
+C,D,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n235">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7#5/C
+C,D,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n148">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+C,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n288">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7sus4/C
+C,D,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n331">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C7sus2
+C,D,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n287">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Csus2
+C,D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M2
+C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n428">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cdim7
+C,Eb,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n471">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7b5
+C,Eb,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n384">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C°
+C,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n524">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Am7b5/C
+C,Eb,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n580">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm9
+C,Eb,G,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n567">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7
+C,Eb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n523">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm
+C,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n619">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm6
+C,Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n383">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m3
+C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n739">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian b7
+C,Gb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n695">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian
+C,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n791">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#°/C
+C,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n866">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#(b5)/C
+C,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n694">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>Tritone
+C,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n959">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7(#9)/D
+D,Eb,Gb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n941">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+D,Eb,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n985">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#m6#5/D
+D,Eb,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1034">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#m+7/D
+D,Eb,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n940">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+D,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1101">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7b5/D
+D,Eb,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1150">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7/D
+D,Eb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1100">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+D,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1217">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D# Lydian Maj7/D
+D,Eb,A,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1253">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D Phrygian b7
+D,Eb,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1216">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D Phrygian
+D,Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n939">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m2
+D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1321">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus2/D
+D,Gb,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1370">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm+7/D
+D,Gb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1406">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus4/D
+D,Gb,G,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1320">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+D,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1437">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A#maj7#5/D
+D,Gb,A,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1486">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom7(b9)
+D,Gb,A,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1473">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom7
+D,Gb,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1436">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D
+D,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1553">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom9(#5b9)
+D,Gb,Bb,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1540">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7#5
+D,Gb,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1539">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D+
+D,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1319">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M3
+D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1689">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7sus4
+D,G,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1652">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Dsus4
+D,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1756">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C7sus2/D
+D,G,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1755">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm/D
+D,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1822">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gsus4/D
+D,G,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1651">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P4
+D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n938">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1940">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebmaj7(#9)
+Eb,Gb,G,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1925">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Eb,Gb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1869">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Eb,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2049">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebdim7
+Eb,Gb,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2088">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#m6#5/D#
+Eb,Gb,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2006">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb°
+Eb,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2144">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7b5/D#
+Eb,Gb,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2183">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebm+7
+Eb,Gb,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2143">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebm
+Eb,Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2238">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebm6
+Eb,Gb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1868">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m3
+Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2353">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Am7b5/D#
+Eb,G,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2392">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebmaj7b5
+Eb,G,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2310">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb(b5)
+Eb,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2448">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7/D#
+Eb,G,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2501">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebmaj7(#9)
+Eb,G,Bb,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2487">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ebmaj7
+Eb,G,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2447">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb
+Eb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2542">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb6
+Eb,G,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2309">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M3
+Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2654">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb Lydian Maj7
+Eb,A,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2614">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Eb Lydian
+Eb,A,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2710">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D Phrygian b7/D#
+Eb,A,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2709">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A°/D#
+Eb,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2780">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A Locrian/D#
+Eb,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2613">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>Tritone
+Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n1867">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2949">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus2/F#
+Gb,G,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2857">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Gb,G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3038">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian b7/F#
+Gb,G,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3086">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7(#9)/F#
+Gb,G,Bb,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3085">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm+7/F#
+Gb,G,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3037">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Gb,G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3174">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus4/F#
+Gb,G,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3173">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian/F#
+Gb,G,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2856">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m2
+Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3347">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A#maj7#5/F#
+Gb,A,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3299">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Gb,A,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3436">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom7/F#
+Gb,A,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3482">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gbdim7
+Gb,A,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3435">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gb°
+Gb,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3561">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gbm6#5
+Gb,A,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3560">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D/F#
+Gb,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3662">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gbm6
+Gb,A,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3298">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m3
+Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3739">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7#5/F#
+Gb,Bb,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3785">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7b5/F#
+Gb,Bb,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3738">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gb(b5)
+Gb,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3864">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gb6#5
+Gb,Bb,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3863">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gb+
+Gb,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3965">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gb6
+Gb,Bb,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n3737">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M3
+Gb,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4143">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C°/F#
+Gb,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4040">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>Tritone
+Gb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n2855">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4408">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7sus4/G
+G,A,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4454">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Am7b5/G
+G,A,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4407">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+G,A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4533">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A Locrian b7/G
+G,A,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4575">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus2
+G,A,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4532">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gsus2
+G,A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4634">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#(b5)/G
+G,A,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4270">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M2
+G,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4711">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C7sus2/G
+G,Bb,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4757">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7/G
+G,Bb,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4799">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian b7/G
+G,Bb,C,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4710">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+G,Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4837">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7(#9)/G
+G,Bb,D,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4836">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7/G
+G,Bb,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4892">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm(maj9)
+G,Bb,D,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4878">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm+7
+G,Bb,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4835">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm
+G,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4952">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gm(maj9)#5
+G,Bb,Eb,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4938">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+G,Bb,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4937">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#/G
+G,Bb,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4709">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m3
+G,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5056">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus4
+G,C,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5013">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gsus4
+G,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5115">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm/G
+G,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5190">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian/G
+G,C,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5012">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P4
+G,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n4269">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5386">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D# Lydian Maj7/A
+A,Bb,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5433">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A#maj7#5/A
+A,Bb,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5385">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+A,Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5511">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D# Lydian/A
+A,Bb,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5242">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m2
+A,Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5616">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D Phrygian b7/A
+A,C,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5663">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Ddom7/A
+A,C,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5709">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7sus4/A
+A,C,D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5615">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+A,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5742">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Adim7
+A,C,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5788">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Am7b5
+A,C,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5741">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A°
+A,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5844">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Am6
+A,C,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5614">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>m3
+A,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5925">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#m6#5/A
+A,D,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5971">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A Locrian b7
+A,D,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5924">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>A Locrian
+A,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6028">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Gmaj7sus2/A
+A,D,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6027">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D/A
+A,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6106">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Dsus4/A
+A,D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5923">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P4
+A,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6154">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#°/A
+A,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6233">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#(b5)/A
+A,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6153">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>Tritone
+A,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n5241">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6361">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D7#5/A#
+Bb,C,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6414">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C7sus2/A#
+Bb,C,D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6311">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Bb,C,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6454">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7b5/A#
+Bb,C,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6507">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Cm7/A#
+Bb,C,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6453">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Bb,C,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6581">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>C Lydian b7/A#
+Bb,C,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6580">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>F#(b5)/A#
+Bb,C,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6310">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M2
+Bb,C</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6693">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7(#9)/A#
+Bb,D,Eb,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6692">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#m+7/A#
+Bb,D,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6745">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#maj7/A#
+Bb,D,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6784">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D# Lydian Maj7/A#
+Bb,D,Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6691">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffffff" transparent="false"/>
+				<y:NodeLabel>?
+Bb,D,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6819">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Bb6#5
+Bb,D,Gb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6858">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Bbmaj7#5
+Bb,D,Gb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6818">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Bb+
+Bb,D,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6928">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>Bb6
+Bb,D,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6690">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>M3
+Bb,D</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n7000">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#m/A#
+Bb,Eb,Gb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n7110">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D#/A#
+Bb,Eb,G</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n7181">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ff6600" transparent="false"/>
+				<y:NodeLabel>D# Lydian/A#
+Bb,Eb,A</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6999">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P4
+Bb,Eb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<node id="n6309">
+		<data key="d0">
+			<y:ShapeNode>
+				<y:Fill color="#ffcc00" transparent="false"/>
+				<y:NodeLabel>P1
+Bb</y:NodeLabel>
+			</y:ShapeNode>
+		</data>
+	</node>
+	<edge id="e01" source="n4" target="n105">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e11" source="n3" target="n4">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e21" source="n148" target="n149">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e31" source="n148" target="n192">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e41" source="n148" target="n235">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e51" source="n3" target="n148">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e61" source="n287" target="n288">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e71" source="n287" target="n331">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e81" source="n3" target="n287">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e91" source="n2" target="n3">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e101" source="n384" target="n428">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e111" source="n384" target="n471">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e121" source="n383" target="n384">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e131" source="n523" target="n524">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e141" source="n567" target="n580">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M9</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e151" source="n523" target="n567">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e161" source="n383" target="n523">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e171" source="n383" target="n619">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e181" source="n2" target="n383">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e191" source="n695" target="n739">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e201" source="n694" target="n695">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e211" source="n694" target="n791">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e221" source="n694" target="n866">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e231" source="n2" target="n694">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e241" source="n1" target="n2">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e251" source="n941" target="n959">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e261" source="n940" target="n941">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e271" source="n940" target="n985">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e281" source="n940" target="n1034">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e291" source="n939" target="n940">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e301" source="n1100" target="n1101">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e311" source="n1100" target="n1150">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e321" source="n939" target="n1100">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e331" source="n1216" target="n1217">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e341" source="n1216" target="n1253">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e351" source="n939" target="n1216">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e361" source="n938" target="n939">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e371" source="n1320" target="n1321">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e381" source="n1320" target="n1370">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e391" source="n1320" target="n1406">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e401" source="n1319" target="n1320">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e411" source="n1436" target="n1437">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e421" source="n1473" target="n1486">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m9</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e431" source="n1436" target="n1473">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e441" source="n1319" target="n1436">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e451" source="n1540" target="n1553">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m9</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e461" source="n1539" target="n1540">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e471" source="n1319" target="n1539">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e481" source="n938" target="n1319">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e491" source="n1652" target="n1689">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e501" source="n1651" target="n1652">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e511" source="n1755" target="n1756">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e521" source="n1651" target="n1755">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e531" source="n1651" target="n1822">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e541" source="n938" target="n1651">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e551" source="n1" target="n938">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e561" source="n1925" target="n1940">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e571" source="n1869" target="n1925">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e581" source="n1868" target="n1869">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e591" source="n2006" target="n2049">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e601" source="n2006" target="n2088">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e611" source="n1868" target="n2006">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e621" source="n2143" target="n2144">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e631" source="n2143" target="n2183">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e641" source="n1868" target="n2143">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e651" source="n1868" target="n2238">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e661" source="n1867" target="n1868">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e671" source="n2310" target="n2353">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e681" source="n2310" target="n2392">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e691" source="n2309" target="n2310">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e701" source="n2447" target="n2448">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e711" source="n2487" target="n2501">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m10</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e721" source="n2447" target="n2487">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e731" source="n2309" target="n2447">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e741" source="n2309" target="n2542">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e751" source="n1867" target="n2309">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e761" source="n2614" target="n2654">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e771" source="n2613" target="n2614">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e781" source="n2709" target="n2710">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e791" source="n2613" target="n2709">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e801" source="n2613" target="n2780">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e811" source="n1867" target="n2613">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e821" source="n1" target="n1867">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e831" source="n2857" target="n2949">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e841" source="n2856" target="n2857">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e851" source="n3037" target="n3038">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e861" source="n3085" target="n3086">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e871" source="n3037" target="n3085">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e881" source="n2856" target="n3037">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e891" source="n3173" target="n3174">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e901" source="n2856" target="n3173">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e911" source="n2855" target="n2856">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e921" source="n3299" target="n3347">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e931" source="n3298" target="n3299">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e941" source="n3435" target="n3436">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e951" source="n3435" target="n3482">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e961" source="n3298" target="n3435">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e971" source="n3560" target="n3561">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e981" source="n3298" target="n3560">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e991" source="n3298" target="n3662">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1001" source="n2855" target="n3298">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1011" source="n3738" target="n3739">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1021" source="n3738" target="n3785">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1031" source="n3737" target="n3738">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1041" source="n3863" target="n3864">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1051" source="n3737" target="n3863">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1061" source="n3737" target="n3965">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1071" source="n2855" target="n3737">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1081" source="n4040" target="n4143">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1091" source="n2855" target="n4040">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1101" source="n1" target="n2855">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1111" source="n4407" target="n4408">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1121" source="n4407" target="n4454">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1131" source="n4270" target="n4407">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1141" source="n4532" target="n4533">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1151" source="n4532" target="n4575">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1161" source="n4270" target="n4532">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1171" source="n4270" target="n4634">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1181" source="n4269" target="n4270">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1191" source="n4710" target="n4711">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1201" source="n4710" target="n4757">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1211" source="n4710" target="n4799">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1221" source="n4709" target="n4710">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1231" source="n4836" target="n4837">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1241" source="n4835" target="n4836">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1251" source="n4878" target="n4892">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M9</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1261" source="n4835" target="n4878">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1271" source="n4709" target="n4835">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1281" source="n4938" target="n4952">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M9</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1291" source="n4937" target="n4938">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1301" source="n4709" target="n4937">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1311" source="n4269" target="n4709">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1321" source="n5013" target="n5056">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1331" source="n5012" target="n5013">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P5</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1341" source="n5012" target="n5115">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1351" source="n5012" target="n5190">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1361" source="n4269" target="n5012">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1371" source="n1" target="n4269">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1381" source="n5385" target="n5386">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1391" source="n5385" target="n5433">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1401" source="n5242" target="n5385">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1411" source="n5242" target="n5511">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1421" source="n5241" target="n5242">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1431" source="n5615" target="n5616">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1441" source="n5615" target="n5663">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1451" source="n5615" target="n5709">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1461" source="n5614" target="n5615">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1471" source="n5741" target="n5742">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1481" source="n5741" target="n5788">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1491" source="n5614" target="n5741">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1501" source="n5614" target="n5844">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1511" source="n5241" target="n5614">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1521" source="n5924" target="n5925">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1531" source="n5924" target="n5971">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1541" source="n5923" target="n5924">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1551" source="n6027" target="n6028">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1561" source="n5923" target="n6027">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1571" source="n5923" target="n6106">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1581" source="n5241" target="n5923">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1591" source="n6153" target="n6154">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1601" source="n6153" target="n6233">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1611" source="n5241" target="n6153">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">Tritone</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1621" source="n1" target="n5241">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1631" source="n6311" target="n6361">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1641" source="n6311" target="n6414">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1651" source="n6310" target="n6311">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1661" source="n6453" target="n6454">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1671" source="n6453" target="n6507">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1681" source="n6310" target="n6453">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1691" source="n6580" target="n6581">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1701" source="n6310" target="n6580">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1711" source="n6309" target="n6310">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M2</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1721" source="n6692" target="n6693">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1731" source="n6691" target="n6692">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1741" source="n6691" target="n6745">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1751" source="n6691" target="n6784">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1761" source="n6690" target="n6691">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1771" source="n6818" target="n6819">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1781" source="n6818" target="n6858">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1791" source="n6690" target="n6818">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1801" source="n6690" target="n6928">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1811" source="n6309" target="n6690">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M3</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1821" source="n6999" target="n7000">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">m6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1831" source="n6999" target="n7110">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M6</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1841" source="n6999" target="n7181">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">M7</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1851" source="n6309" target="n6999">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P4</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+	<edge id="e1861" source="n1" target="n6309">
+		<data key="d1">
+			<PolyLineEdge>
+<y:LineStyle color="#000000" type="line" width="4.0"/>
+				<y:EdgeLabel alignment="center" configuration="AutoFlippingLabel">P1</y:EdgeLabel>
+			</PolyLineEdge>
+		</data>
+	</edge>
+</graph>
+</graphml>

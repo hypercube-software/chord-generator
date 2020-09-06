@@ -26,7 +26,7 @@
 
 Chord generator is able to generate all possible chords for a given musical scale. It can be used as the basis of a chord recognition system or any composition tool. The list of chords is saved as a GraphML file allowing some kind of visualization via [yEd](https://www.yworks.com/products/yed) editor.
 
-Here is the chords of C Major scale (up to 6 notes):
+Here is the chords of C Major scale (up to 7 notes):
 
 ![C-Major-chords](assets/C-Major-chords.svg)
 

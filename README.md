@@ -28,7 +28,7 @@ Chord generator is able to generate all possible chords for a given musical scal
 
 Here is the chords of C Major scale (up to 6 notes):
 
-![](assets/C Major chords.png)
+![C-Major-chords](assets/C-Major-chords.png)
 
 Legend:
 

@@ -7,9 +7,8 @@ import java.util.List;
 
 /**
  * Contains a set of intervals calculated from a string like "T-T-S-T-T-T-S" or "W-H-WH-H-H-WH-H"
- * The string formula is read from configuration.xml
  * 
- * @author admin
+ * @author hypercube software
  *
  */
 public class ScaleFormula {

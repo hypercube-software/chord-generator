@@ -274,8 +274,7 @@ public class ChordGenerator {
 			}
 			return nbChordFound;
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			logger.log(Level.SEVERE,"Unexpected error",e);
 			return 0;
 		}
 	}

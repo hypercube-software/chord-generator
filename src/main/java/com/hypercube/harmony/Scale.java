@@ -8,7 +8,7 @@ import java.util.List;
  * A scale is an instance of a ScaleTemplate at a given note
  * The ScaleTemplate provide a formula to apply to the rootNote of the scale
  * 
- * @author admin
+ * @author hypercube software
  *
  */
 public class Scale {

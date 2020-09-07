@@ -14,7 +14,7 @@ import java.util.List;
  * inner intervals = 0,4,3 = P1,M3,m3
  * 
  * 
- * @author admin
+ * @author hypercube software
  *
  */
 public class ChordFormula {

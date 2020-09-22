@@ -1,29 +1,6 @@
 # Chord generator
-**Table of content**
 
-[1.1 Introduction](#11-introduction)  
-[1.2 Music Theory in Java](#12-music-theory-in-java)  
-[1.2.1 Note names for newbies](#121-note-names-for-newbies)  
-[1.2.2 Scale formula](#122-scale-formula)  
-[1.2.3 Octave, modulo 12 and note indexes](#123-octave--modulo-12-and-note-indexes)  
-[1.2.4 Intervals](#124-intervals)  
-[1.2.5 Inverted chords](#125-inverted-chords)  
-[1.2.6 Naming chords](#126-naming-chords)  
-  
-  
-[2 How to generate chords](#2-how-to-generate-chords)  
-[2.1 Basic principle](#21-basic-principle)  
-[2.2 Why depth first recursion](#22-why-depth-first-recursion)  
-[2.3 Sanity check during recursion](#23-sanity-check-during-recursion)  
-  
-  
-[3 Scale URL](#3-scale-url)  
-[4 How to display your GraphML in yEd](#4-how-to-display-your-graphml-in-yed)  
-
-
-
-
-## 1.1 Introduction
+## Introduction
 
 Chord generator is able to generate all possible chords for a given musical scale. It can be used as the basis of a chord recognition system or any composition tool. The list of chords is saved as a GraphML file allowing some kind of visualization via [yEd](https://www.yworks.com/products/yed) editor.
 
@@ -39,11 +16,11 @@ Legend:
 - White node is not really a chord because it has no known name, notes are very dissonant
 - Each edge correspond to a chosen interval that keep you inside the scale.
 
-## 1.2 Music Theory in Java
+## Music Theory in Java
 
 This will explain the fundamentals of music theory for newbies and how to model music theory in Java.
 
-### 1.2.1 Note names for newbies
+### Note names for newbies
 
 Music theory is really weird when it comes to name notes. In case you don't know yet, let me show you:
 
@@ -84,7 +61,7 @@ As an example, how to name the C Minor scale notes ?
 
 The method `Scale::computeNoteNames()` implements those rules.
 
-### 1.2.2 Scale formula
+### Scale formula
 
 A scale is a unordered set of notes which is generated from a formula. The formula is just a list of "jump" that you must do starting from the root note of the scale. There is various ways to name those jumps, here we recognize the following:
 
@@ -121,7 +98,7 @@ Here how to create a D# Major scale:
 Scale s = new Scale("C Major", 3, new ScaleFormula("T-T-S-T-T-T-S")); // 3 is the root note D#
 ```
 
-### 1.2.3 Octave, modulo 12 and note indexes
+### Octave, modulo 12 and note indexes
 
 In music theory you have only 12 notes. The 13th note is considered as the same as the first one as we use a modulo 12. The range 1-12 is called an **Octave**.
 
@@ -140,7 +117,7 @@ In **Scale.java** we apply the scale offsets to a given root note. **At this poi
 - C Major scale becomes [0, 2, 4, 5, 7, 9, 11], the root note is 0. This correspond to the notes [C,D,E,F,G,A,B]
 - E Major scale becomes [4, 6, 8, 9, 11, 1, 3], the root note is 4. This correspond to the notes [E,F#,G#,A,B,C#,D#]
 
-### 1.2.4 Intervals
+### Intervals
 
 An interval is just two notes played together. We could say it is the most simple possible chord. There are 25 intervals. Each of them have a **name** and a **code**.
 
@@ -190,7 +167,7 @@ As you can see in yEd, some paths are longer than others because they stay in th
 
 In our code the class **Intervals.java** will provides methods to get the name of any interval.
 
-### 1.2.5 Inverted chords
+### Inverted chords
 
 This is were things get complicated... The theory consider that the notes of chord can be inverted and it will be the same chord. This is really weird because the intervals won't be the same so the quality of what you ear won't be the same.
 
@@ -212,7 +189,7 @@ Here what happen for a C major chord:
 - [E,G,C] is the first inversion, an **InvertedChord** with a **ChordFormula** [m3,m6] applied to E
 - [G,C,E] is the second inversion, an **InvertedChord** with a **ChordFormula** [P4,M6] applied to G
 
-### 1.2.6 Naming chords
+### Naming chords
 
 I tried to make my best on this. The code is in `Intervals::getChordType()`
 
@@ -259,9 +236,9 @@ Here is the rules for 3 notes chords:
 
 
 
-# 2 How to generate chords
+# How to generate chords
 
-## 2.1 Basic principle
+## Basic principle
 
 We do a depth first recursion. Each time we recurse, we add an interval to the root note.
 
@@ -269,11 +246,11 @@ During the recursion (to be precise when we return, after going in depth) we cal
 
 A global counter `nodeCounter` is used to build a unique GraphML node identifier
 
-## 2.2 Why depth first recursion
+## Why depth first recursion
 
 Because you need to know if you have found chords before writing a new edge in the GraphML.
 
-## 2.3 Sanity check during recursion
+## Sanity check during recursion
 
 When you had a new interval, you may jump outside the current octave to return to a note that you already use in the current chord. This is what `ChordFormula.isValid()` check. The list of note indexes must contain unique notes modulo 12.
 
@@ -295,7 +272,7 @@ if (name.contains("?") && invertedChord!=null) {
 
 This is why we are able to display **C/G** instead of ? when we generate an inverted C chord with bass G.
 
-# 3 Scale URL
+# Scale URL
 
 Wait, what? A scale can have a URL? Indeed, if you use the work of **Ian Ring** you can represent a scale by a sequence of 12 bits. Each bit correspond to a note on the piano keyboard. 
 
@@ -305,7 +282,7 @@ https://ianring.com/musictheory/scales/2741 is the URL of the major scale 101010
 
 We build such URL in the constructor of **Scale.java**
 
-# 4 How to display your GraphML in yEd
+# How to display your GraphML in yEd
 
 If you import the file in yEd you will get this:
 

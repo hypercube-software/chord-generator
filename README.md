@@ -5,7 +5,7 @@
 [1.2 Music Theory in Java](#12-music-theory-in-java)  
 [1.2.1 Note names for newbies](#121-note-names-for-newbies)  
 [1.2.2 Scale formula](#122-scale-formula)  
-[1.2.3 Octave, modulo 12 and note indexes](#123-octave--modulo-12-and-note-indexes)  
+[1.2.3 Octave, modulo 12 and note indexes](#123-octave-modulo-12-and-note-indexes)  
 [1.2.4 Intervals](#124-intervals)  
 [1.2.5 Inverted chords](#125-inverted-chords)  
 [1.2.6 Naming chords](#126-naming-chords)  

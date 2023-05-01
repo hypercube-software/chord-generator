@@ -1,27 +1,21 @@
 # Chord generator
 **Table of content**
 
-[1.1 Introduction](#11-introduction)  
-[1.2 Music Theory in Java](#12-music-theory-in-java)  
-[1.2.1 Note names for newbies](#121-note-names-for-newbies)  
-[1.2.2 Scale formula](#122-scale-formula)  
-[1.2.3 Octave, modulo 12 and note indexes](#123-octave-modulo-12-and-note-indexes)  
-[1.2.4 Intervals](#124-intervals)  
-[1.2.5 Inverted chords](#125-inverted-chords)  
-[1.2.6 Naming chords](#126-naming-chords)  
-  
-  
+[1 Chord generator](#chord-generator)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1.1 Introduction](#11-introduction)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1.2 Music Theory in Java](#12-music-theory-in-java)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.1 Note names for newbies](#121-note-names-for-newbies)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.2 Scale formula](#122-scale-formula)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.3 Octave, modulo 12 and note indexes](#123-octave-modulo-12-and-note-indexes)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.4 Intervals](#124-intervals)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.5 Inverted chords](#125-inverted-chords)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1.2.6 Naming chords](#126-naming-chords)  
 [2 How to generate chords](#2-how-to-generate-chords)  
-[2.1 Basic principle](#21-basic-principle)  
-[2.2 Why depth first recursion](#22-why-depth-first-recursion)  
-[2.3 Sanity check during recursion](#23-sanity-check-during-recursion)  
-  
-  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1 Basic principle](#21-basic-principle)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.2 Why depth first recursion](#22-why-depth-first-recursion)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.3 Sanity check during recursion](#23-sanity-check-during-recursion)  
 [3 Scale URL](#3-scale-url)  
 [4 How to display your GraphML in yEd](#4-how-to-display-your-graphml-in-yed)  
-
-
-
 
 ## 1.1 Introduction
 
